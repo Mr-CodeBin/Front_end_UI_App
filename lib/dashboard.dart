@@ -83,6 +83,7 @@ class _dashboardState extends State<dashboard> {
                     ),
                   ],
                 ),
+                // sized box height with half responsive height...
                 SizedBox(
                   height: ResponsiveScreen.halfRepHeight(context, 100),
                 )
