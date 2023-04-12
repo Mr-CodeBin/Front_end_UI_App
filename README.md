@@ -1,4 +1,4 @@
-#####################################################################################################################################################
+####################################################################################################################################################
 
 Front end app development competition 
 -By Android Club...
@@ -7,7 +7,7 @@ The "Front- End Sprint :- who will cross the line first" conducted by android cl
 A 3 hour long Coding hackathon only for Android developers
 This was such an amazing opportunity for participants to demonstrate their front-end development skills and build a competitive environment.
 
-####################################################################################################################################################################### 
+####################################################################################################################################################
 
 
 Getting Started
